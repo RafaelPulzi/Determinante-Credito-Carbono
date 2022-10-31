@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>Com Arvores</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="/"><img id="seta-voltar" src="/img/arrow-left-circle.svg">Com Arvores</a>
+        </div>
+    </nav>
+
+    <div class="jumbotrom text-center apresentacao">
+        <div class="container">
+            <h2>Calculo do tanto de CO2 Absorvido</h2>
+            <p class="lead">Nesta parte da aplição voce criara um arquivo .csv que servira como mediador para a realização dos calculos. Contudo, incira os devidos dados a baixo e clique em ENVIAR para fazer uma linha da tabela, quando tiver finalizado clique em FINALIZAR</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <form action="#" id="entrada-dados" method="POST">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label>DAP:</label>
+                        <input type="text" class="form-contol" name="dap">
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label>Altura:</label>
+                        <input type="text" class="form-contol" name="altura">
+                    </div>
+                </div>
+                </div>
+            </div>
+        </form>
+
+        <div class="jumbotron text-center resultado">
+            <div class="container">
+                <h3>Resultados:</h3>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
