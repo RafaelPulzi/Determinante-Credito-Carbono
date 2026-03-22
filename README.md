@@ -3,8 +3,11 @@
 [![Licença](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-%3E%3D2.0-black.svg)](https://flask.palletsprojects.com/)
-[![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)]()
-[![Contribuições](https://img.shields.io/badge/contribui%C3%A7%C3%B5es-bem%20vindas-brightgreen.svg)](CONTRIBUTING.md)
+[![Status](https://img.shields.io/badge/status-concluído-brightgreen.svg)]()
+[![Versão](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
+[![Último Commit](https://img.shields.io/github/last-commit/RafaelPulzi/Determinante-Credito-Carbono)](https://github.com/RafaelPulzi/Determinante-Credito-Carbono/commits/main)
+[![Tamanho do Repositório](https://img.shields.io/github/repo-size/RafaelPulzi/Determinante-Credito-Carbono)]()
+
 
 ## 📌 Sobre o Projeto
 
